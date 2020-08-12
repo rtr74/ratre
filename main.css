@@ -2591,7 +2591,7 @@
 			color: rgba(255, 255, 255, 0.65);
 		}
 
-		#header .avatar {
+		#header .avatarr {
 			border-radius: 100%;
 			display: inline-block;
 			margin: 0 0 2em 0;
@@ -2600,7 +2600,7 @@
 			background-color: rgba(255, 255, 255, 0.075);
 		}
 
-			#header .avatar img {
+			#header .avatarr img {
 				border-radius: 100%;
 				display: block;
 				width: 10em;
